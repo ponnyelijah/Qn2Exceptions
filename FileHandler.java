@@ -1,5 +1,5 @@
 
-package SsewankamboElijjah.qn2exceptions;
+package SsewankamboElijah.qn2exceptions;
     import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
