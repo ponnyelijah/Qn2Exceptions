@@ -1,5 +1,5 @@
 
-package SsewankamboElijjah.qn2exceptions;
+package SsewankamboElijah.qn2exceptions;
 
 public class PaymentSystem {
 
