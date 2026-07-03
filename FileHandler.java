@@ -1,4 +1,5 @@
-package isaacwandyakaortis.qn2exceptions;
+
+package SsewankamboElijjah.qn2exceptions;
     import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
